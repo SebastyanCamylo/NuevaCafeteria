@@ -6,8 +6,10 @@ Testea que la ruta GET /cafes devuelve un status code 200 y el tipo de dato reci
 Comprueba que se obtiene un código 404 al intentar eliminar un café con un id que no existe. (2 Puntos)
 Prueba que la ruta POST /cafes agrega un nuevo café y devuelve un código 201. (2 Puntos)
 Prueba que la ruta PUT /cafes devuelve un status code 400 si intentas actualizar un café enviando un id en los parámetros que sea diferente al id dentro del payload. (3 Puntos)
-Instalar dependencias: npm i
-Correr proyecto con: npm run dev
+
+* Instalar dependencias: npm i
+* Correr proyecto con: npm run dev
+
 Dependencias utilizadas
 
 * npm install pg
