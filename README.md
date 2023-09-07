@@ -10,12 +10,12 @@ Instalar dependencias: npm i
 Correr proyecto con: npm run dev
 Dependencias utilizadas
 
-npm install pg
-npm i jest
-npm i jsonwebtoken
-npm i express
-npm i pg-format
-npm i cors
-npm i bcryptjs
-npm i dotenv
-npm i morgan
+* npm install pg
+* npm i jest
+* npm i jsonwebtoken
+* npm i express
+* npm i pg-format
+* npm i cors
+* npm i bcryptjs
+* npm i dotenv
+* npm i morgan
